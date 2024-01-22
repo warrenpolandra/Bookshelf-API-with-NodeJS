@@ -1,4 +1,4 @@
-# Submission-Dicoding-Belajar-Membuat-Aplikasi-Back-End-untuk-Pemula
+# Bookshelf API with NodeJS
 Submission Kelas Dicoding: Belajar Membuat Aplikasi Back End untuk Pemula. Membuat Bookshelf API. API dibuat dengan menggunakan NodeJS dan framework Hapi. API dapat mengelola seluruh buku yang akan disimpan. Testing API dilakukan dengan menggunakan Postman. Aplikasi juga menggunakan ESLint untuk menyesuaikan gaya penulisan code yang sesuai denagn standar.
 
 ## Fitur Aplikasi
